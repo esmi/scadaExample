@@ -2,3 +2,4 @@
 /example-*/
 /example/src/
 composer.lock
+.tags*
